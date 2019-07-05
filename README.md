@@ -1,8 +1,8 @@
 说明：本文总结C/C++后端服务器开发的知识点。每个点遵循3w2h（what where why how）。 
 
 ## 一、后端基础部分分为以下板块： ##
-- 1.网络
-- 2.操作系统
+- 1.[网络](https://github.com/Bobo-peng/server-develop/blob/master/doc/network.md "网络")
+- 2.[操作系统](https://github.com/Bobo-peng/server-develop/blob/master/doc/operate-system.md "操作系统")
 - 3.语言相关
 - 4.数据结构与算法
 ## 二、项目板块 ##
