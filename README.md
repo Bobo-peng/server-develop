@@ -10,7 +10,7 @@
 - 2.系统的性能和指标
 - 3.项目使用的技术
 ## 三、开源项目板块 ##
-- 1.linux
-- 2.redis
+- 1.[linux](https://github.com/Bobo-peng/server-develop/blob/master/doc/linux.md)
+- 2.[redis](https://github.com/Bobo-peng/server-develop/blob/master/doc/redis.md)
 - 3.nginx
 - 4.mysql
