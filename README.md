@@ -12,5 +12,5 @@
 ## 三、开源项目板块 ##
 - 1.[linux](https://github.com/Bobo-peng/server-develop/blob/master/doc/linux.md)
 - 2.[redis](https://github.com/Bobo-peng/server-develop/blob/master/doc/redis.md)
-- 3.nginx
-- 4.mysql
+- 3.[nginx](https://github.com/Bobo-peng/server-develop/blob/master/doc/nginx.md)
+- 4.[mysql](https://github.com/Bobo-peng/server-develop/blob/master/doc/mysql.md)
