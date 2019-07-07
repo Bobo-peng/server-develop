@@ -169,4 +169,15 @@ find / -name "string*"
 
 答： gcc -c 然后打包 ar rs lib***.a 
 
-33.
+33.统计文本单词频率？
+
+答：
+
+     cat abc.txt |tr -cs "[a-z][A-Z]" "\n" |tr A-Z a-z |sort|uniq -c|sort -r|awk '{print $2,$1}'
+解析：
+
+（1）tr -cs "[a-z][A-Z]" "\n"  将除了字母的字符换为换行，即文本变为每行一个单词
+
+（2）tr A-Z a-z 大写换小写
+
+（3）uniq -c  检查以列旁边重复出现的次数
