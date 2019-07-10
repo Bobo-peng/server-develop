@@ -181,3 +181,14 @@ find / -name "string*"
 （2）tr A-Z a-z 大写换小写
 
 （3）uniq -c  检查以列旁边重复出现的次数
+
+34.df和du的区别？
+
+答：du是显示每个文件、目录的磁盘使用情况；df是磁盘分区的可用空间。
+
+35.awk命令有什么作用？
+
+答：AWK是一种处理文本文件的语言，是一个强大的文本分析工具。
+
+之所以叫AWK是因为其取了三位创始人 Alfred Aho，Peter Weinberger, 和 Brian Kernighan 的 Family Name 的首字符。
+
