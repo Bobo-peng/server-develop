@@ -1,7 +1,9 @@
 说明：本文总结C/C++后端服务器开发的知识点。每个点遵循3w2h（what where why how）。 
 
 ## 数据结构与算法 ##
+
 ##第一部分：基础知识##
+
 1.快排的思想？
 
 答：
@@ -640,6 +642,7 @@
 	return found;
 
 ##第二部分：编程实战（LeetCode）##
+
 1.反转链表,递归和非递归都需要掌握。(206)[https://leetcode-cn.com/problems/reverse-linked-list/](https://leetcode-cn.com/problems/reverse-linked-list/ "https://leetcode-cn.com/problems/reverse-linked-list/")
 
 2.两两交换链表中的节点。（24）[https://leetcode-cn.com/problems/swap-nodes-in-pairs/](https://leetcode-cn.com/problems/swap-nodes-in-pairs/ "https://leetcode-cn.com/problems/swap-nodes-in-pairs/")
