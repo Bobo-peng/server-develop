@@ -2,7 +2,7 @@
 
 ## 数据结构与算法 ##
 
-##第一部分：基础知识##
+## 第一部分：基础知识 ##
 
 1.快排的思想？
 
@@ -641,7 +641,7 @@
 		v.pop_back();
 	return found;
 
-##第二部分：编程实战（LeetCode）##
+## 第二部分：编程实战（LeetCode）##
 
 1.反转链表,递归和非递归都需要掌握。(206)[https://leetcode-cn.com/problems/reverse-linked-list/](https://leetcode-cn.com/problems/reverse-linked-list/ "https://leetcode-cn.com/problems/reverse-linked-list/")
 
