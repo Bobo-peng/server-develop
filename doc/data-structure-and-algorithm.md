@@ -1,6 +1,7 @@
 说明：本文总结C/C++后端服务器开发的知识点。每个点遵循3w2h（what where why how）。 
 
 ## 数据结构与算法 ##
+##第一部分：基础知识##
 1.快排的思想？
 
 答：
@@ -637,3 +638,36 @@
 	if(!found)
 		v.pop_back();
 	return found;
+
+##第二部分：编程实战（LeetCode）##
+1.反转链表,递归和非递归都需要掌握。(206)[https://leetcode-cn.com/problems/reverse-linked-list/](https://leetcode-cn.com/problems/reverse-linked-list/ "https://leetcode-cn.com/problems/reverse-linked-list/")
+
+2.两两交换链表中的节点。（24）[https://leetcode-cn.com/problems/swap-nodes-in-pairs/](https://leetcode-cn.com/problems/swap-nodes-in-pairs/ "https://leetcode-cn.com/problems/swap-nodes-in-pairs/")
+
+3.给定一个链表，判断链表中是否有环。（141）[https://leetcode-cn.com/problems/linked-list-cycle/](https://leetcode-cn.com/problems/linked-list-cycle/ "https://leetcode-cn.com/problems/linked-list-cycle/")
+
+4.给定一个链表，返回链表开始入环的第一个节点。（142）[https://leetcode-cn.com/problems/linked-list-cycle-ii/](https://leetcode-cn.com/problems/linked-list-cycle-ii/ "https://leetcode-cn.com/problems/linked-list-cycle-ii/")
+
+5.给你一个链表，每 k 个节点一组进行翻转。（25）[https://leetcode-cn.com/problems/reverse-nodes-in-k-group/](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/ "https://leetcode-cn.com/problems/reverse-nodes-in-k-group/")
+
+6.给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。（20）[https://leetcode-cn.com/problems/valid-parentheses/description/](https://leetcode-cn.com/problems/valid-parentheses/description/ "https://leetcode-cn.com/problems/valid-parentheses/description/")
+
+7.用栈实现队列。（232）[https://leetcode-cn.com/problems/implement-queue-using-stacks/description/](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/ "https://leetcode-cn.com/problems/implement-queue-using-stacks/description/")
+
+8.用队列实现栈。（225）[https://leetcode-cn.com/problems/implement-stack-using-queues/description/](https://leetcode-cn.com/problems/implement-stack-using-queues/description/ "https://leetcode-cn.com/problems/implement-stack-using-queues/description/")
+
+9.数据流中的第K大元素。（703）[https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/ "https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/")
+
+10.滑动窗口最大值。（239）[https://leetcode-cn.com/problems/sliding-window-maximum/](https://leetcode-cn.com/problems/sliding-window-maximum/ "https://leetcode-cn.com/problems/sliding-window-maximum/")
+
+11.有效的字母异位词。（242）[https://leetcode-cn.com/problems/valid-anagram/submissions/](https://leetcode-cn.com/problems/valid-anagram/submissions/ "https://leetcode-cn.com/problems/valid-anagram/submissions/")
+
+12.两数之和。（1）[https://leetcode-cn.com/problems/two-sum/](https://leetcode-cn.com/problems/two-sum/ "https://leetcode-cn.com/problems/two-sum/")
+
+13.三数之和。（15）[https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/ "https://leetcode-cn.com/problems/3sum/")
+
+14.验证二叉搜索树。（98）[https://leetcode-cn.com/problems/validate-binary-search-tree/](https://leetcode-cn.com/problems/validate-binary-search-tree/ "https://leetcode-cn.com/problems/validate-binary-search-tree/")
+
+15.二叉搜索树的最近公共祖先。（235）[https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ "https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/")
+
+16.二叉树的最近公共祖先。（236）[http://https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/](http://https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ "https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/")
