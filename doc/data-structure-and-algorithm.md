@@ -674,3 +674,5 @@
 15.二叉搜索树的最近公共祖先。（235）[https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ "https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/")
 
 16.二叉树的最近公共祖先。（236）[http://https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/](http://https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ "https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/")
+
+17.Pow(x, n)。 （50）[https://leetcode-cn.com/problems/powx-n/](https://leetcode-cn.com/problems/powx-n/ "https://leetcode-cn.com/problems/powx-n/")
